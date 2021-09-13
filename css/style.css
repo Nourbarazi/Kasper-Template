@@ -697,7 +697,7 @@ header .container nav .form i:hover{
     color:#fff;
     padding:10px 20px;
     display:block;
-    width:fit-content;
+    width:max-content;
     text-transform: uppercase;
     margin: 30px auto;
     text-decoration: none;
